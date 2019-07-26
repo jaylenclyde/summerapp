@@ -1,0 +1,4 @@
+#Fri Jul 26 08:25:44 PDT 2019
+base.0=A\:\\flutterprojects\\JideGuru-FlutterFoodybite-632d3fd\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
